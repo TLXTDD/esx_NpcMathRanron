@@ -1,8 +1,8 @@
-fx_version 'adamant'
+fx_version 'AiWenZhuo'
 
 game 'gta5'
 
-description 'ESX Holdup'
+description 'ESX NpcMath'
 
 version '1.1.0'
 
